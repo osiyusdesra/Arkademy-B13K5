@@ -23,7 +23,9 @@ Dalam mengerjekan tes digunakan :
 
 - Jawaban Soal no 6 dikerjakan dengan MySQL untuk membuat database kemudian di link ke PHP untuk menampilkan databasenya
        Untuk membuat databse dengan MySQL bisa dilakukan dengan masuk ke MySQL melalui command promt(cmd) computer atau membuatnya 
-       langsung di laman localhost/PhpMyAdmin
+       langsung di laman localhost/PhpMyAdmin.
+       Silahkan copy database disini ('arkademy.sql') ke MySQL, lalu hubungkan PHP dengan MySQL dengan menjalankan file koneksi.php,
+       kemudian jalankan file showquery.php untuk melihat database yang telah dibuat.
        
 ![Screenshot (1)](https://user-images.githubusercontent.com/57266553/69480117-ffbfbc80-0e36-11ea-91a7-7bc9b44bfd66.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/57266553/69480118-ffbfbc80-0e36-11ea-83b8-a174696706c5.png)
